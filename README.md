@@ -8,7 +8,7 @@ I'm a **Software Engineer at Equinix** with a passion for building **real-time s
 ## 🏆 Career Highlights 
 - Automated **data reconciliation during Oracle R12 to Oracle Fusion migration**, saving countless hours of manual effort with **10+ Node.js scripts**.  
 - Optimized **work order approvals in SAP Fieldglass** via **Workato recipes** integrated with MS Teams, eliminating 75% of manual processes.  
-- Built a **scalable stock exchange application** using RabbitMQ, PostgreSQL, and Docker, supporting real-time processing.  
+- Built a **scalable stock exchange application** using RabbitMQ, PostgreSQL and Docker supporting real-time processing.  
 - Contributed to open-source projects like **Rocket.Chat** and **Lightdash**, enhancing functionality and user experience.  
 
 ---
