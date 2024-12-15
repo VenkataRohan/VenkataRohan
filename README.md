@@ -25,8 +25,9 @@ I'm a **Software Engineer at Equinix** with a passion for building **real-time s
 ---
 
 ## 💼 Open-Source Contributions  
-- [Rocket.Chat](https://github.com/RocketChat) – Added the "Notify on Reactions" feature, enhancing user engagement by allowing notifications for message reactions.  
-- [Lightdash](https://github.com/lightdash) – Improved frontend functionality with a feature to auto-open threshold configuration modals for better user workflow.  
+- [Lightdash](https://github.com/lightdash/lightdash/issues/9075) – Improved frontend functionality with a feature to auto-open threshold configuration modals for better user workflow.  
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat/pull/32475) – Added the "Notify on Reactions" feature, enhancing user engagement by allowing notifications for message reactions.  
+- [Cal.com](https://github.com/calcom/cal.com/pull/18192) – Fixed booking questions order correction in confirmation email.
 
 ---
 
