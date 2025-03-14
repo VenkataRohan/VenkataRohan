@@ -36,12 +36,6 @@ I'm currently exploring **AI/ML integrations**, **scalable WebSocket architectur
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataRohan&show_icons=true&theme=radical)   
-
----
-
 ## 📬 Get in Touch  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/venkata-rohan)  
